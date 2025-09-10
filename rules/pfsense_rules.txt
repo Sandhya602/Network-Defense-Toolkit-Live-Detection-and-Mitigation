@@ -1,1 +1,3 @@
+# Block SYN scan (Nmap stealth scan)
+block in quick on em0 proto tcp from any to any flags S/SA keep state
 
