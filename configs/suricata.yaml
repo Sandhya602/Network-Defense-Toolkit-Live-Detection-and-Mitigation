@@ -1,1 +1,6 @@
-
+# Placeholder Suricata config (add real configs during implementation)
+%YAML 1.1
+---
+logging:
+  default-log-level: info
+  
