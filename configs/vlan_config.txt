@@ -1,1 +1,5 @@
+# VLAN Segmentation Example
+# VLAN 10 - User Network
+# VLAN 20 - Server Network
+# VLAN 30 - IDS Network
 
