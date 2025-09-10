@@ -1,1 +1,3 @@
+# Detect DNS tunneling attempts
+alert dns any any -> any any (msg:"Suspicious DNS Tunneling Detected"; dns.query; content:"exampletunnel.com"; nocase; sid:100002; rev:1;)
 
